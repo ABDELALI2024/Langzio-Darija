@@ -1,0 +1,11 @@
+---
+description: GitHub synchronization rules for Langzio-Darija
+alwaysApply: true
+---
+
+# GitHub Sync
+
+When modifying project files, keep changes organized and ready for Git synchronization.
+Use the main branch.
+Never commit .env files, API keys, passwords, tokens, or other secrets.
+Do not modify unrelated files.
